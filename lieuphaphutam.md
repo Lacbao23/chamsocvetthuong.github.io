@@ -45,13 +45,13 @@ Quy trình của lieu pháp hút áp lực âm [my movie](https://en.wikipedia.o
 - Vệ sinh máy hút theo hướng dẫn của bác sĩ để ngăn ngừa nhiễm trùng và duy trì hiệu suất hoạt động. Lau sạch bề mặt ngoài của máy bằng khăn mềm và dung dịch sát khuẩn, tránh để nước thấm vào máy.
 - Vệ sinh và kiểm tra ống hút thường xuyên để tránh tắc nghẽn và tích tụ dịch.
 - Tránh làm ướt hệ thống khi tắm, nên sử dụng túi bảo vệ hoặc làm theo hướng dẫn của nhân viên y tế.
-![Cách đặt máy hút áp lực âm](/assets/img/datmaydung)
+![Cách đặt máy hút áp lực âm](/assets/img/datmaydung.png)
 
 ### Nhận biết hệ thống cảnh báo của máy hút áp lực âm?
 
 Hệ thống cảnh báo của máy hút áp lực âm là một phần quan trọng giúp đảm bảo an toàn và hiệu quả trong quá trình điều trị.
  
-![Màn hình của máy hút áp lực âm](/assets/img/manhinh)
+![Màn hình của máy hút áp lực âm](/assets/img/manhinh.png)
 
 
 Dưới đây là các cách nhận biết và hiểu về hệ thống cảnh báo của máy hút áp lực âm:
