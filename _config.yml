@@ -13,18 +13,19 @@
 title: CHAM SOC VET THUONG
 
 # Your name to show in the footer
-author: Trang Ho - Khoa Dieu Duong
+author: Khoa Dieu Duong
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
+  Home: "trangchu"
   Liệu pháp phút áp lực âm: "lieuphaphutam"
-  Chăm sóc vết thương:
-    - Trước phẫu thuật: "truocphauthuat"
-    - Sau phẫu thuật: "sauphauthuat"
-  Chỉ định và chống chỉ định: "https://www.markdowntutorial.com/"
+  Chăm sóc:
+    - Chăm sóc trước phẫu thuật: "cstruocphauthuat"
+    - Chăm sóc sau phẫu thuật: "cssauphauthuat"
+  Câu hỏi thường gặp: "cauhoithuonggap"
 
 ################
 # --- Logo --- #
