@@ -36,7 +36,7 @@ Phương pháp này thường được áp dụng cho các loại vết thương
 
 ### video
 
-Quy trình của lieu pháp hút áp lực âm [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29)
+Quy trình của lieu pháp hút áp lực âm [my movie](https://www.youtube.com/watch?v=MnOBIX7KHec)
 
 ### Cách chăm sóc hệ thống hút áp lực âm?
 - Kiểm tra hệ thống hút áp lực âm hàng ngày để đảm bảo máy hoạt động đúng cách, không bị rò rỉ hoặc tắc nghẽn.
@@ -45,7 +45,9 @@ Quy trình của lieu pháp hút áp lực âm [my movie](https://en.wikipedia.o
 - Vệ sinh máy hút theo hướng dẫn của bác sĩ để ngăn ngừa nhiễm trùng và duy trì hiệu suất hoạt động. Lau sạch bề mặt ngoài của máy bằng khăn mềm và dung dịch sát khuẩn, tránh để nước thấm vào máy.
 - Vệ sinh và kiểm tra ống hút thường xuyên để tránh tắc nghẽn và tích tụ dịch.
 - Tránh làm ướt hệ thống khi tắm, nên sử dụng túi bảo vệ hoặc làm theo hướng dẫn của nhân viên y tế.
-![Cách đặt máy hút áp lực âm](/assets/img/datmaydung.png)
+![Cách đặt máy hút áp lực âm đúng](/assets/img/datmaydung.jpg)
+
+![Cách đặt máy hút áp lực âm sai](/assets/img/datmaysai.jpg)
 
 ### Nhận biết hệ thống cảnh báo của máy hút áp lực âm?
 
