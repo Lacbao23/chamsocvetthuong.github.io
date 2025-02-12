@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Cham soc
-subtitle: Chăm sóc trước phẫu thuật
+title:  Chăm sóc trước phẫu thuật
 ---
 
 ### Chăm sóc da trước phẫu thuật
