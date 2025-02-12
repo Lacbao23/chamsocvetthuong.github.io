@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Câu hỏi thường gặp
-subtitle: Câu hỏi thường gặp
 ---
 
 ### Liệu pháp hút áp lực âm được áp dụng trong bao lâu?
