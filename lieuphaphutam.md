@@ -36,7 +36,7 @@ Phương pháp này thường được áp dụng cho các loại vết thương
 
 ### video
 
-Quy trình của lieu pháp hút áp lực âm [my movie](https://www.youtube.com/watch?v=MnOBIX7KHec)
+Quy trình của liệu pháp hút áp lực âm [my movie](https://www.youtube.com/watch?v=MnOBIX7KHec)
 
 ### Cách chăm sóc hệ thống hút áp lực âm?
 - Kiểm tra hệ thống hút áp lực âm hàng ngày để đảm bảo máy hoạt động đúng cách, không bị rò rỉ hoặc tắc nghẽn.
