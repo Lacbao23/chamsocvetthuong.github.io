@@ -58,11 +58,11 @@ Hệ thống cảnh báo của máy hút áp lực âm là một phần quan tr�
 
 Dưới đây là các cách nhận biết và hiểu về hệ thống cảnh báo của máy hút áp lực âm:
 
-1. Cảnh báo đầy bình chứa dịch: Khi bình chứa dịch đã đầy, cần thay thế hoặc đổ dịch theo hướng dẫn của nhân viên y tế.
+**1. Cảnh báo đầy bình chứa dịch**: Khi bình chứa dịch đã đầy, cần thay thế hoặc đổ dịch theo hướng dẫn của nhân viên y tế.
 
 ![Cảnh báo đầy bình chứa dịch](/assets/img/tuiday.png)
 
-2. Cảnh báo lỗi hệ thống chưa đóng/ bị khóa/ bị rò rỉ. 
+**2. Cảnh báo lỗi hệ thống chưa đóng/ bị khóa/ bị rò rỉ** 
 
 ![Cảnh báo hệ thống chưa đóng](/assets/img/chuadong.png)
 
@@ -70,13 +70,13 @@ Dưới đây là các cách nhận biết và hiểu về hệ thống cảnh b
 
 ![Cảnh báo hệ thống bị rò rỉ](/assets/img/rori.png)
 
-3. Cảnh báo lỗi nguồn điện: Kiểm tra nguồn cắm điện hoặc pin của máy, đảm bảo máy luôn hoạt động ổn định.
+**3. Cảnh báo lỗi nguồn điện**: Kiểm tra nguồn cắm điện hoặc pin của máy, đảm bảo máy luôn hoạt động ổn định.
 
 ![Cảnh báo pin yếu](/assets/img/pinyeu.png)
 
 ![Cảnh báo hết pin](/assets/img/hetpin.png)
 
-4. Cảnh báo khác: Nếu máy phát ra tín hiệu cảnh báo mà bạn không xác định được nguyên nhân, hãy liên hệ với nhân viên y tế để được hỗ trợ.
+**4. Cảnh báo khác**: Nếu máy phát ra tín hiệu cảnh báo mà bạn không xác định được nguyên nhân, hãy liên hệ với nhân viên y tế để được hỗ trợ.
 
 ![Cảnh báo treo máy](/assets/img/treomay.png)
 
