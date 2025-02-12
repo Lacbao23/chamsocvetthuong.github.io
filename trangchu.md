@@ -6,7 +6,7 @@ title: Liệu pháp hút áp lực âm là gì?
 Liệu pháp hút áp lực âm là một phương pháp điều trị vết thương tiên tiến, sử dụng áp suất âm để tạo môi trường thuận lợi cho quá trình hồi phục. 
 Phương pháp này giúp loại bỏ dịch viêm, tăng cường tuần hoàn máu, kích thích tái tạo mô mới, giảm nguy cơ nhiễm trùng, rút ngắn thời gian lành vết thương, nâng cao hiệu quả điều trị và hỗ trợ quá trình phục hồi tối ưu.
 
-![Cơ chế](/assets/img/coche.png)
+![Cơ chế](/assets/img/hethongmay.png)
 
 ### video
 
