@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Chăm sóc
-subtitle: Chăm sóc sau phẫu thuật
+title: Chăm sóc sau phẫu thuật
 ---
 
 ### Chăm sóc da sau phẫu thuật
