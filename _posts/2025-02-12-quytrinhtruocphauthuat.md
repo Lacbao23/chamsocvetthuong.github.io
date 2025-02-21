@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Quy trình chuẩn bị người bệnh trước phẫu thuật
+title: Hướng dẫn nhập viện
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
@@ -9,8 +9,11 @@ mathjax: true
 author: 
 ---
 
-{: .box-success}
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/tables/etc.<br/>I also encourage you to look at the [code that created this post](https://raw.githubusercontent.com/daattali/beautiful-jekyll/master/_posts/2020-02-28-sample-markdown.md) to learn some more advanced tips about using markdown in Beautiful Jekyll.
+**Hướng dẫn nhập viện**
+Bước 1: Nguời bệnh sau khi được khám có chỉ định nhập viện thì Bác sĩ phòng khám làm hồ sơ bệnh án cho người bệnh vào điều trị nội trú.
+Bước 2: Nhân viên y tế phòng khám đưa người bệnh vào khoa điều trị (nếu người bệnh nặng thì đưa bằng cáng hoặc xe đẩy), giao hồ sơ bệnh án cho điều dưỡng khoa, có ký nhận vào sổ chuyển người bệnh.
+Bước 3: Khoa điều trị tiếp nhận người bệnh vào khoa, kiểm tra hồ sơ bệnh án, ký nhận với bên bàn giao, hoàn thiện các thủ tục hành chính. Hướng dẫn nội quy khoa phòng, nội quy bệnh viện, quyền và nghĩa vụ của người bệnh. Xếp buồng, giường cho người bệnh, cho người bệnh mượn vật dụng,tư trang (quần áo, mùng mền...)
+
 
 **Here is some bold text**
 
